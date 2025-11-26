@@ -1,5 +1,5 @@
 {
-    "name": "@arslanmdofficial/baileys-pro",
+    "name": "@yumenative/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
-    "author": "Arslan-MD",
+    "author": "Adhiraj Singh",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -44,6 +44,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.3",
         "@cacheable/node-cache": "^1.4.0",
+        "async-mutex": "^0.5.0",
         "audio-decode": "^2.1.3",
         "axios": "^1.3.3",
         "cache-manager": "4.0.1",
